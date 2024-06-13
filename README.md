@@ -5,15 +5,15 @@
 Widget.js host on cdn https://cdn.jsdelivr.net/gh/Ferryal/rpry-cdn/widget.js
 
 Button Widget Customizable:
-> Text
-> Color (default background #008CBA)
-> Text Color (default #FFFFFF)
-> Font Size (defalut 16px)
-> Padding (default 10px 20px)
-> Border Radius (default 5px)
-> Icon
-> Icon Position (default left)
-> Booking url (default url https://qiv.repairy.au/repairy)
+- Text
+- Color (default background #008CBA)
+- Text Color (default #FFFFFF)
+- Font Size (defalut 16px)
+- Padding (default 10px 20px)
+- Border Radius (default 5px)
+- Icon
+- Icon Position (default left)
+- Booking url (default url https://qiv.repairy.au/repairy)
 
 
 ## Example Widget
